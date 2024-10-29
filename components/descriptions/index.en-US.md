@@ -71,7 +71,7 @@ const items: DescriptionsProps['items'] = [
 <code src="./demo/style.tsx" debug>Customize label & wrapper style</code>
 <code src="./demo/jsx.tsx" debug>JSX demo</code>
 <code src="./demo/component-token.tsx" debug>Component Token</code>
-<code src="./demo/block.tsx">row</code>
+<code src="./demo/block.tsx" version="5.22.0">row</code>
 
 ## API
 
