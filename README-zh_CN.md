@@ -140,7 +140,7 @@ export default App;
 
 推荐使用 [opensumi.run](https://opensumi.run) 进行在线开发：
 
-[![opensumi.run](https://custom-icon-badges.demolab.com/badge/opensumi-run-blue.svg?logo=opensumi)](https://opensumi.run/ide/ant-design/ant-design)
+[![opensumi.run](https://custom-icon-badges.demolab.com/badge/opensumi-run-blue.svg?logo=opensumi)](https://opensumi.run/ide/oneperfect01/ant-design)
 
 或者克隆到本地开发:
 
